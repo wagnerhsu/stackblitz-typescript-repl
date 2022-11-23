@@ -1,6 +1,8 @@
 {
   "name": "typescript",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "private": true,
-  "dependencies": {}
+  "dependencies": {
+    "chai": "^4.3.7"
+  }
 }
